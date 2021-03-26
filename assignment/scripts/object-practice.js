@@ -11,7 +11,10 @@ console.log('***** Object Practice *****')
 const me = {
   // TODO - add properties here
   firstName: 'Christian',
-  lastName: 'Back'
+  lastName: 'Back',
+  hasSiblings: true,
+  shoeCount: 3,
+  favThreeFoods: ['pizza','cavatelli','ramen']
 };
 console.log('A little about me:', me);
 
